@@ -13,6 +13,8 @@ import type {
 const APP_ID = 'p2p-chat-trystero-app';
 const RELAY_URLS = [
   'wss://tracker.openwebtorrent.com',
+  'wss://tracker.webtorrent.dev',
+  'wss://tracker.fastcast.nz',
   'wss://tracker.btorrent.xyz',
 ];
 const MATCHMAKING_ROOM = '__matchmaking_lobby__';
